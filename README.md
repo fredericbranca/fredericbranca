@@ -12,4 +12,5 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>JS</li> 
+  <li>DataBase SQL</li> 
 </p>

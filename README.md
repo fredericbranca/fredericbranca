@@ -1,5 +1,5 @@
 <h2> Hi, I'm Fred "Snoux"!</h2>
-<img align='right' src="https://user-images.githubusercontent.com/73036370/229635914-538635ae-2af7-41eb-ac21-5d4917694156.png" width="230">
+
 <p><em>27, c.s. student ("Web / Mobile Web Developer") at Elan Formation</em></p>
 
 [![twitter](https://user-images.githubusercontent.com/73036370/227058430-085b0e96-21b7-4b2d-8483-b064c4527376.png)](https://twitter.com/snoux_)

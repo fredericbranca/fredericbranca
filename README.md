@@ -1,4 +1,4 @@
-<h2> Hi, I'm Fred "Snoux"!</h2>
+<h2> Hi, I'm Fred!</h2>
 
 <p><em>27, c.s. student ("Web / Mobile Web Developer") at Elan Formation</em></p>
 

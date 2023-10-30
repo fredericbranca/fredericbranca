@@ -14,7 +14,7 @@
 
 ### Langages de programmation
 - PHP
-- JavaScript (Node.js)
+- JavaScript
 - HTML
 - CSS
 

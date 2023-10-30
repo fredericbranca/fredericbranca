@@ -25,8 +25,8 @@
 ### Autres
 - MERN Stack (MongoDB, Express.js, React, Node.js)
 
-<div>
-<p>Tu as fait du bon travail aujourd'hui, vraiment un excellent travail.</p>
-<p>Ne te préoccupe pas de tout ce qui s'est passé et que tu ne pouvais même pas contrôler. La chose la plus importante, c'est que tu as fait de ton mieux.</p>
-<p>Repose-toi, tu le mérites, et assure-toi de te rappeler de ceci avant de t'endormir, car tu en vaux la peine.</p>
-</div>
+<blockquote>
+  <p><em>"Tu as fait du bon travail aujourd'hui, vraiment un excellent travail."</em></p>
+  <p><em>"Ne te préoccupe pas de tout ce qui s'est passé et que tu ne pouvais même pas contrôler. La chose la plus importante, c'est que tu as fait de ton mieux."</em></p>
+  <p><em>"Repose-toi, tu le mérites, et assure-toi de te rappeler de ceci avant de t'endormir, car tu en vaux la peine."</em></p>
+</blockquote>
